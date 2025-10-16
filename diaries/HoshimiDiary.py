@@ -1,8 +1,8 @@
 from diaries.AbstractDiary import AbstractDiary
 class HoshimiDiary(AbstractDiary):
     def get_date(self):
-        return "2021-12-09"
+        return "2025-10-16"
     def get_summary(self):
-        return """今日はオブジェクト指向プログラミング演習2のグループワーク演習だった。この資料を作成するのは、正直しんどかった。資料に書かれてないことも勝手に伝われば良いのに。と思った。"""
+        return """今日は、日記を作成しました。"""
     def get_author(self):
         return "Hoshimi"
