@@ -10,4 +10,4 @@ class KarotoDiary(AbstractDiary):
         "しかし、切り替えて頑張ろうと思う。"
     
     def get_author(self):
-        return "Karoto"
+        return "K24231_Karoto"
